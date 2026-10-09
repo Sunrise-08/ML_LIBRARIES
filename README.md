@@ -1,10 +1,16 @@
-ML Libraries Learning
+# Python Libraries for Data Analysis 📊
 
-A hands-on repository documenting my learning journey in Python libraries used for data analysis, visualization, and machine learning.
+This repository documents my learning journey with Python libraries used in data analysis and visualization.
 
-Libraries I'm Learning
-NumPy — Numerical computing and array operations
-Pandas — Data manipulation and analysis
-Matplotlib — Data visualization
-Seaborn — Statistical data visualization
-Scikit-learn — Machine learning algorithms and model evaluation
+### 🛠️ Libraries
+
+* **NumPy** — Numerical computing
+* **Pandas** — Data manipulation and analysis
+* **Matplotlib** — Data visualization
+* **Seaborn** — Statistical data visualization
+
+### 💻 Tools
+
+Python | Jupyter Notebook | VS Code
+
+🌱 *Continuously learning and growing through practice.*
