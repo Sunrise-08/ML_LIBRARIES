@@ -13,4 +13,4 @@ This repository documents my learning journey with Python libraries used in data
 
 Python | Jupyter Notebook | VS Code
 
-🌱 *Continuously learning and growing through practice.*
+
